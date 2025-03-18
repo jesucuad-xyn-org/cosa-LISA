@@ -3,7 +3,7 @@ on:
   workflow_dispatch:  # Allows manual triggering
   # no push triggers
   # no pull request triggers
-  # no schedule triggers
+  # no schedule triggerssss
 
 jobs:
   xygeni-scan:
